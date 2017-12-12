@@ -28,7 +28,7 @@
       <div class="wrapper">
         <div class="welcome">
           <h1><strong>Apollo</strong></h1>
-          <p>Welcome to Apollo Located in beautiful Marlow – shops, cafes and restaurants galore.</p>
+          <p>Welcome to Apollo Located in beautiful Marlow – shops, cafes and restaurants galore.Always home of the warmest welcome.Studio Manager Gary (top pic with Marlow Mayor, Suzanne Brown and singer Toyah)heads the most courteous team of trained photographers and dedicated staff.Over 35 years of trusted know-how ensures we’ll make your Photo Shoot more special.From big family groups to little tots and newborns – experience something better.We’re the only, local studio whose expert team assist you from start to finish.</p>
         </div>
         <div class="photographer"><img src="assets/img/hero.png" alt="Photographer"></div>
       </div>
