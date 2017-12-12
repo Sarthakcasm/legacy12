@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="C#">
+<%@ Page Language="C#" %>
+<html>
   <head>
     <title>Apollo</title>
     <meta charset="utf-8">
