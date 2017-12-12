@@ -27,8 +27,8 @@
       </header>
       <div class="wrapper">
         <div class="welcome">
-          <h1><strong>Apollo</strong> Jade Template</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</p>
+          <h1><strong>Apollo</strong></h1>
+          <p>Welcome to Apollo Located in beautiful Marlow – shops, cafes and restaurants galore.</p>
         </div>
         <div class="photographer"><img src="assets/img/hero.png" alt="Photographer"></div>
       </div>
@@ -41,8 +41,8 @@
       <div class="wrapper">
         <div class="camera"><img src="assets/img/camera.png" alt="Camera"></div>
         <div class="blurb">
-          <h2>My name is <strong>Apollo</strong></h2>
-          <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.<br><br>Ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+          <h2>Why choose us?</h2>
+          <p>Always home of the warmest welcome.Studio Manager Gary (top pic with Marlow Mayor, Suzanne Brown and singer Toyah) heads the most courteous team of trained photographers and dedicated staff.Over 35 years of trusted know-how ensures we’ll make your Photo Shoot more special.From big family groups to little tots and newborns – experience something better.We’re the only, local studio whose expert team assist you from start to finish.We’ll discover your interests and personalities and create wow-factor portraits in our comfortable and relaxed surroundings. Totally individual, totally you.Proudly independent, prices reflect high quality, made to outlast cheaper brandsWITHOUT the franchise fees, Head Office extras and sales pressure.Your high res images are perfectly re-touched by our in-house experts.Expertly published USB’s and Discs for sharper images and colours.</p>
           <div class="social"><a href="#"><i class="icon-facebook"></i></a><a href="#"><i class="icon-instagram"></i></a><a href="#"><i class="icon-twitter"></i></a><a href="#"><i class="icon-pinterest-p"></i></a></div>
         </div>
       </div>
@@ -65,8 +65,9 @@
 </svg>
       <div class="wrapper">
         <div class="blurb">
-          <h2><strong>Ut enim</strong> ad minim</h2>
-          <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+          <h2>HOW DO I BOOK A PHOTO SHOOT?</h2>
+          <p>SIMPLY CALL US TO BOOK Our friendly team will explain everything you need to know about your Photo Shoot. From arrival time to the zzzzz’s you’ll get from tired but happy little bunnies !!.HOW MUCH DOES IT COST?Our best priced Family Photo Shoot is only £20 or buy two for £30 Bookings can be paid for using a credit / debit card and cash. Unlike outdoor photography, our studio gives you peace of mind, whatever the weather. Getting the family all together is special and takes planning so why have it ruined? Our expert photographers can take over 200 images on the day of your Shoot. Some photographers only take a dozen or so – in our experience, that’s not enough. Our studio is heated with baby changing facilities and is wheelchair and pet friendly 🙂
+( Offer not applicable to Corporate Photography )</p>
         </div>
         <div class="featured"><img src="assets/img/featured.jpg" alt="Featured"></div>
       </div>
@@ -92,8 +93,7 @@
 </svg>
       <div class="wrapper">
         <div class="blurb">
-          <h2><strong>Say</strong> Hello</h2>
-          <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+		<h2><strong>Say</strong> Hello</h2>
         </div>
         <form>
           <input type="email" placeholder="Your Email">
