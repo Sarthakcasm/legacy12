@@ -66,8 +66,7 @@
       <div class="wrapper">
         <div class="blurb">
           <h2>HOW DO I BOOK A PHOTO SHOOT?</h2>
-          <p>SIMPLY CALL US TO BOOK Our friendly team will explain everything you need to know about your Photo Shoot. From arrival time to the zzzzz’s you’ll get from tired but happy little bunnies !!.HOW MUCH DOES IT COST?Our best priced Family Photo Shoot is only £20 or buy two for £30 Bookings can be paid for using a credit / debit card and cash. Unlike outdoor photography, our studio gives you peace of mind, whatever the weather. Getting the family all together is special and takes planning so why have it ruined? Our expert photographers can take over 200 images on the day of your Shoot. Some photographers only take a dozen or so – in our experience, that’s not enough. Our studio is heated with baby changing facilities and is wheelchair and pet friendly 🙂
-( Offer not applicable to Corporate Photography )</p>
+          <p>SIMPLY CALL US TO BOOK Our friendly team will explain everything you need to know about your Photo Shoot. From arrival time to the zzzzz’s you’ll get from tired but happy little bunnies !!.HOW MUCH DOES IT COST?Our best priced Family Photo Shoot is only £20 or buy two for £30 Bookings can be paid for using a credit / debit card and cash. Unlike outdoor photography, our studio gives you peace of mind, whatever the weather. Getting the family all together is special and takes planning so why have it ruined? Our expert photographers can take over 200 images on the day of your Shoot.</p>
         </div>
         <div class="featured"><img src="assets/img/featured.jpg" alt="Featured"></div>
       </div>
